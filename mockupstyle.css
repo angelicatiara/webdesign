@@ -509,10 +509,9 @@ body {
   background-size:auto;
 }
 #iel1km{
-  color:rgb(34, 34, 34);
+  color:rgba(238, 238, 238, 1);
   font-family:Roboto, sans-serif;
   font-size:15px;
-  background-color:rgb(255, 255, 255);
 }
 @media (max-width: 768px){
   .foot-form-cont{
